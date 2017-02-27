@@ -15,4 +15,7 @@ This is my repository for projects I have completed from Wes Bos's [JavaScript30
 A simple drum kit using keypresses to play .wav files along with a css animation on keystroke.
 
 ### #2 - JS and CSS Clock
+A simple three-hand analog clock displaying the current time.
+
+### #3 - Playing with CSS Variables and JS
 In progress.
