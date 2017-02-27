@@ -1,6 +1,6 @@
 'use strict';
 
-var playSound = (e) => {
+const playSound = (e) => {
     const key = document.querySelector(`.key[data-key="${e.keyCode}"]`);
     const audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);
     if (!audio) return;
@@ -10,9 +10,9 @@ var playSound = (e) => {
     key.classList.add('playing');
 };
 
-function removeTransition(e){
+const removeTransition = (e) => {
     if (e.propertyName !== 'transform') return;
-    this.classList.remove('playing');
+    e.target.classList.remove('playing');
 };
 
 const keys = document.querySelectorAll('.key');
