@@ -18,4 +18,25 @@ A simple drum kit using keypresses to play .wav files along with a css animation
 A simple three-hand analog clock displaying the current time.
 
 ### #3 - Playing with CSS Variables and JS
+Adjusts blur, background color, and offset for an image using CSS variables, slider elements, and a stock photo.
+
+### #4 - Array Cardio Day 1
+In progress.
+
+### #5 - Flex Panels Image Gallery
+In progress.
+
+### #6 - Ajax Type Ahead
+In progress.
+
+### #7 - Array Cardio Day 2
+In progress.
+
+### #8 - Fun with HTML5 Canvas
+In progress.
+
+### #9 - 14 Must Know Dev Tools Tricks
+In progress.
+
+### #10 - Hold Shift to Check Multiple Checkboxes
 In progress.
