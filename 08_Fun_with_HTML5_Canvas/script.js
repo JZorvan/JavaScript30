@@ -7,6 +7,7 @@ canvas.height = window.innerHeight;
 ctx.lineJoin = 'round';
 ctx.lineCap = 'round';
 ctx.lineWidth = 100;
+// ctx.globalCompositeOperation = 'multiply';    Look these blending options up and use some more.
 
 let isDrawing = false;
 let lastX = 0;
