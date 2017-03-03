@@ -23,7 +23,7 @@ A simple three-hand analog clock displaying the current time.
 Adjusts blur, background color, and offset for an image using CSS variables, slider elements, and a stock photo.
 
 ### #4 - Array Cardio Day 1
-In progress.
+Exercise practicing array methods: filter, map, sort, reduce to manipulate arrays in the console.
 
 ### #5 - Flex Panels Image Gallery
 In progress.
@@ -32,10 +32,10 @@ In progress.
 In progress.
 
 ### #7 - Array Cardio Day 2
-In progress.
+Exercise practicing array methods: some, every, find, findIndex to manipulate arrays in the console.
 
 ### #8 - Fun with HTML5 Canvas
-In progress.
+Create a window that allows the user to draw using the HTML5 Canvas feature with rainbow, line width effects, and more.
 
 ### #9 - 14 Must Know Dev Tools Tricks
 In progress.
