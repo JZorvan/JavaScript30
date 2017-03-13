@@ -15,11 +15,12 @@ function togglePlay() {
     if(video.paused) {
         const method = video.paused ? 'play' : 'pause';
         video[method]();
-}
+    };
+};
 
 function updateButton() {
     
-}
+};
 
 /* Event Listeners */
 
